@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Jose Torres 👋
 
-<!--
-**JoseTorresEmbedded/JoseTorresEmbedded** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Embedded Software Engineer passionate about understanding how software works at the lowest levels.
 
-Here are some ideas to get you started:
+Currently focused on:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Embedded C
+- STM32
+- RTOS
+- Embedded Linux
+- Software Architecture
+- OpenGL
+
+## Current Goal
+
+Become a Senior Embedded Software Engineer by building real projects and documenting every step of the journey.
+
+## Current Roadmap
+
+- ✅ C Language Fundamentals
+- 🔄 Memory Layout
+- ⏳ Linker Scripts
+- ⏳ Startup Code
+- ⏳ RTOS
+- ⏳ STM32 Drivers
+
+## Featured Project
+
+🚀 Embedded Foundations
+
+A practical engineering roadmap documenting my journey through Embedded Software Engineering.
