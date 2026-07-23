@@ -9,7 +9,6 @@ Currently focused on:
 - RTOS
 - Embedded Linux
 - Software Architecture
-- OpenGL
 
 ## Current Goal
 
